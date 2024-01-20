@@ -1,6 +1,6 @@
 "use strict";
 
-const BIKE_API = "http://api.citybik.es";
+const BIKE_API = "https://api.citybik.es";
 const TORONTO_SLUG = "v2/networks/bixi-toronto";
 const [lat, lon] = [43.6629, -79.3957];
 
